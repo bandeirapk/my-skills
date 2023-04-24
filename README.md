@@ -12,13 +12,6 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bandeirapk/my-skills?style=social">
 </p>
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades-do-projeto">Funcionalidades</a> • 
- <a href="https://github.com/bandeirapk/my-skills/edit/main/README.md#%EF%B8%8F-tecnologias-utilizadas">Tecnologias</a> • 
- <a href="https://github.com/bandeirapk/my-skills/edit/main/README.md#%EF%B8%8F-instala%C3%A7%C3%A3o-e-uso">Instalação</a>
-</p>
-
 <h4 align="center"> 
 	🚧  Projeto concluído 🚀 🚧
 </h4>
@@ -61,6 +54,8 @@ O MySkills app foi desenvolvido durante o curso Ignite da Rocketseat, com o obje
 <br>
 
 ## 🛠️ Instalação e uso
+## instação e uso
+## 📱 instação da aplicação
 
 Você pode baixar o projeto e rodar em seu computador seguindo os passos abaixo:
 
