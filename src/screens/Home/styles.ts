@@ -17,7 +17,6 @@ export const styles = StyleSheet.create({
   greeting: {
     fontSize: 16,
     fontWeight: '600',
-    color: '#FFF',
   },
   input: {
     marginTop: Platform.OS === 'ios' ? 15 : 20,
@@ -42,6 +41,7 @@ export const styles = StyleSheet.create({
     paddingBottom: 20,
 
     marginTop: 50,
+    marginBottom: 20,
   },
   counterSkills: {
     borderRadius: 14,
@@ -51,5 +51,10 @@ export const styles = StyleSheet.create({
     color: '#FFF',
 
     backgroundColor: '#A370F7',
+  },
+  listParticipantEmpty: {
+    fontSize: 14,
+    textAlign: 'center',
+    color: '#FFF',
   },
 });
